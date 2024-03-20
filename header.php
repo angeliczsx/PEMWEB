@@ -11,7 +11,7 @@
             height: auto; 
         }
         header.sticky-top {
-            height: 80px; /* Sesuaikan dengan tinggi header Anda */
+            height: 80px;
         }
     </style>
 </head>
